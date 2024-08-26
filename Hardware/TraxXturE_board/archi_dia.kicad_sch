@@ -1,0 +1,171 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e965264a-f996-41d3-8e97-7c7ade1a6671")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 187.452 64.77)
+		(size 36.068 22.606)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 59 240 255 1.0000)
+		)
+		(uuid "6a2bff9f-2193-4ef2-bb02-794c8fd55233")
+		(property "Sheetname" "GSM_GPS_CIRCUITRY"
+			(at 185.674 63.5 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gsm_gps_circuitry.kicad_sch"
+			(at 187.452 87.9606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TraxXturE_board"
+				(path "/cd5d5232-08d3-4747-89bb-fcb3f89047c4/5173b832-d4b5-4b10-8aab-90d322e47ea7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.664 61.976)
+		(size 51.054 96.774)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 177 255 69 1.0000)
+		)
+		(uuid "ba9c0e12-c623-4e72-981d-270c70e45671")
+		(property "Sheetname" "MCU_Circuitry"
+			(at 105.664 60.3994 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_circuitry.kicad_sch"
+			(at 105.664 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TraxXturE_board"
+				(path "/cd5d5232-08d3-4747-89bb-fcb3f89047c4/5173b832-d4b5-4b10-8aab-90d322e47ea7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.848 66.04)
+		(size 30.48 24.892)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 136 111 1.0000)
+		)
+		(uuid "e8d1dbbe-c85e-4616-984f-d4cb58b42090")
+		(property "Sheetname" "power_circuitry"
+			(at 53.848 64.4634 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_cct.kicad_sch"
+			(at 53.848 91.5166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TraxXturE_board"
+				(path "/cd5d5232-08d3-4747-89bb-fcb3f89047c4/5173b832-d4b5-4b10-8aab-90d322e47ea7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 188.468 102.87)
+		(size 35.052 22.606)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 250 150 255 1.0000)
+		)
+		(uuid "faac3b25-99fd-4bb4-a9ac-1d5ff3d7bce1")
+		(property "Sheetname" "ignition_shutdown"
+			(at 186.944 100.33 0)
+			(effects
+				(font
+					(size 3 3)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ignition_shutdown.kicad_sch"
+			(at 188.468 126.0606 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 188.468 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "TraxXturE_board"
+				(path "/cd5d5232-08d3-4747-89bb-fcb3f89047c4/5173b832-d4b5-4b10-8aab-90d322e47ea7"
+					(page "4")
+				)
+			)
+		)
+	)
+)

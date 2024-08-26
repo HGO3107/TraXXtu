@@ -1,5 +1,91 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cd5d5232-08d3-4747-89bb-fcb3f89047c4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 306.07 180.34)
+		(size 40.64 20.574)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 186 158 199 1.0000)
+		)
+		(uuid "5173b832-d4b5-4b10-8aab-90d322e47ea7")
+		(property "Sheetname" "Architectural_diagram"
+			(at 306.07 179.2634 0)
+			(effects
+				(font
+					(size 2 2)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "archi_dia.kicad_sch"
+			(at 306.07 201.4986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TraxXturE_board"
+				(path "/cd5d5232-08d3-4747-89bb-fcb3f89047c4"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 306.324 138.938)
+		(size 40.894 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 160 99 255 1.0000)
+		)
+		(uuid "8f0e30d2-0a16-4df1-84f6-f3697f6683f9")
+		(property "Sheetname" "Block_diagra"
+			(at 306.324 137.8614 0)
+			(effects
+				(font
+					(size 2 2)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "blck_dia.kicad_sch"
+			(at 306.324 167.4626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TraxXturE_board"
+				(path "/cd5d5232-08d3-4747-89bb-fcb3f89047c4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
