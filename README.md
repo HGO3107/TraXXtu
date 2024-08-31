@@ -13,4 +13,5 @@ TraxXturE is a tracking device specifically created for vehicles (can also be us
 
 ##Main Components Lists
 | Components | RPi|
+---: | :--: | :---
 |1            | idi|
