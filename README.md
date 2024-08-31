@@ -10,7 +10,8 @@ TraxXturE is a tracking device specifically created for vehicles (can also be us
 + Engine Cut -Off
 
 
-*testing table file*
+*testing table feature*
+
 ##Main Components Lists
 
 | Components | RPi|
