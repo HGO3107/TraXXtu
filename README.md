@@ -8,6 +8,7 @@ TraxXturE is a tracking device specifically created for vehicles (can also be us
 + Vehicle speed tracking
 + Vehicle Internal Image Capturing
 + Engine Cut -Off
++ Offline backup
 
 
 *testing table feature*
